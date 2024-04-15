@@ -1,0 +1,11 @@
+10
+0	"Broken CD"	"Content//Fishes//Trash//Broken_CD.png"	5
+1	"Broken Glasses"	"Content//Fishes//Trash//Broken_Glasses.png"	5
+2	"Coal"	"Content//Fishes//Trash//Coal.png"	5
+3	"Driftwood"	"Content//Fishes//Trash//Driftwood.png"	5
+4	"Plastic Bag"	"Content//Fishes//Trash//plastic-bag.png"	5
+5	"Plastic Jug"	"Content//Fishes//Trash//plastic-jug.png"	5
+6	"Plastic Water"	"Content//Fishes//Trash//plastic-water.png"	5
+7	"Six Pack"	"Content//Fishes//Trash//six-pack.png"	5
+8	"Soggy Newspaper"	"Content//Fishes//Trash//Soggy_Newspaper.png"	5
+9	"Toxic Barrel"	"Content//Fishes//Trash//toxic-barrel.png"	5

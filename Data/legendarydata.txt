@@ -1,0 +1,8 @@
+7
+0	"Firefly Squid"	"Content//Fishes//Legendary//fireflysquid.png"	1500
+1	"Frilled Shark"	"Content//Fishes//Legendary//frilledshark.png"	1750
+2	"La"	"Content//Fishes//Legendary//la.png"	2000
+3	"Shinidamachuu"	"Content//Fishes//Legendary//shinidamachuu.png"	1250
+4	"Tui"	"Content//Fishes//Legendary//tui.png"	1500
+5	"Vampire Fish"	"Content//Fishes//Legendary//vampirefish.png"	2500
+6	"Vampire Squid"	"Content//Fishes//Legendary//vampiresquid.png"	3000

@@ -1,0 +1,102 @@
+101
+0	"Zebra Eel"	"Content//Fishes//Normal//zebraeel.png"	35
+1	"Algae"	"Content//Fishes//Normal//algae.png"	5
+2	"Anchoviella"	"Content//Fishes//Normal//anchoviella.png"	15
+3	"Arctic Char"	"Content//Fishes//Normal//arcticchar.png"	20
+4	"Arowana"	"Content//Fishes//Normal//arowana.png"	20
+5	"Banded Angler"	"Content//Fishes//Normal//bandedangler.png"	40
+6	"Barracuda"	"Content//Fishes//Normal//barracuda.png"	20
+7	"Barrel Eye"	"Content//Fishes//Normal//barreleye.png"	15
+8	"Blinky"	"Content//Fishes//Normal//blinky.png"	25
+9	"Blue Shrimp"	"Content//Fishes//Normal//blueshrimp.png"	10
+10	"Blue Starfish"	"Content//Fishes//Normal//bluestarfish.png"	10
+11	"Blue Tang"	"Content//Fishes//Normal//bluetang.png"	15
+12	"Bonnethead Shark"	"Content//Fishes//Normal//bonnetheadshark.png"	30
+13	"Brief Squid"	"Content//Fishes//Normal//briefsquid.png"	30
+14	"Bullhead Shark"	"Content//Fishes//Normal//bullheadshark.png"	30
+15	"Butterfish"	"Content//Fishes//Normal//butterfish.png"	25
+16	"Cavefish"	"Content//Fishes//Normal//cavefish.png"	15
+17	"Celest Eye"	"Content//Fishes//Normal//celesteye.png"	25
+18	"Clownfish"	"Content//Fishes//Normal//clownfish.png"	15
+19	"Coelacanth"	"Content//Fishes//Normal//coelacanth.png"	25
+20	"Comet"	"Content//Fishes//Normal//comet.png"	35
+21	"Common Puffer"	"Content//Fishes//Normal//commonpuffer.png"	40
+22	"Conger"	"Content//Fishes//Normal//conger.png"	15
+23	"Crownthorns"	"Content//Fishes//Normal//crownthorns.png"	25
+24	"Decapod"	"Content//Fishes//Normal//decapod.png"	25
+25	"Dogfish"	"Content//Fishes//Normal//dogfish.png"	25
+26	"Dragonslug"	"Content//Fishes//Normal//dragonslug.png"	25
+27	"Electric Catfish"	"Content//Fishes//Normal//electriccatfish.png"	25
+28	"Elephant Fish"	"Content//Fishes//Normal//elephantfish.png"	25
+29	"Falsekelp Fish"	"Content//Fishes//Normal//falsekelpfish.png"	25
+30	"Filefish"	"Content//Fishes//Normal//filefish.png"	25
+31	"Flame Agler"	"Content//Fishes//Normal//flameagler.png"	40
+32	"Freshwater Crab"	"Content//Fishes//Normal//freshwatercrab.png"	10
+33	"Freshwater Shrimp"	"Content//Fishes//Normal//freshwatershrimp.png"	10
+34	"Fugu"	"Content//Fishes//Normal//fugu.png"	15
+35	"Ghobling Shark"	"Content//Fishes//Normal//ghoblingshark.png"	30
+36	"Ghost Eel"	"Content//Fishes//Normal//ghosteel.png"	20
+37	"Ghost Koi"	"Content//Fishes//Normal//ghostkoi.png"	35
+38	"Goblin Shark"	"Content//Fishes//Normal//goblinshark.png"	30
+39	"Goldfish"	"Content//Fishes//Normal//goldfish.png"	10
+40	"Green Terror"	"Content//Fishes//Normal//greenterror.png"	15
+41	"Haddock"	"Content//Fishes//Normal//haddock.png"	15
+42	"Hagfish"	"Content//Fishes//Normal//hagfish.png"	15
+43	"Harlequin Shrimp"	"Content//Fishes//Normal//harlequinshrimp.png"	10
+44	"Hiutsuri Koi"	"Content//Fishes//Normal//hiutsurikoi.png"	40
+45	"Icedevil"	"Content//Fishes//Normal//icedevil.png"	30
+46	"Icefish"	"Content//Fishes//Normal//icefish.png"	30
+47	"Ide"	"Content//Fishes//Normal//ide.png"	30
+48	"Jellyfish"	"Content//Fishes//Normal//jellyfish.png"	15
+49	"King Crab"	"Content//Fishes//Normal//kingcrab.png"	50
+50	"King Fish"	"Content//Fishes//Normal//kingfish.png"	50
+51	"Kiutsuri Koi"	"Content//Fishes//Normal//kiutsurikoi.png"	40
+52	"Knifefish"	"Content//Fishes//Normal//knifefish.png"	15
+53	"Kohaku Koi"	"Content//Fishes//Normal//kohakukoi.png"	40
+54	"Ladyfish"	"Content//Fishes//Normal//ladyfish.png"	15
+55	"Lamprey"	"Content//Fishes//Normal//lamprey.png"	20
+56	"Lionhead"	"Content//Fishes//Normal//lionhead.png"	20
+57	"Lobster"	"Content//Fishes//Normal//lobster.png"	25
+58	"Longnose Gar"	"Content//Fishes//Normal//longnosegar.png"	20
+59	"Lungfish"	"Content//Fishes//Normal//lungfish.png"	20
+60	"Mandarin"	"Content//Fishes//Normal//mandarin.png"	20
+61	"Mantaray"	"Content//Fishes//Normal//mantaray.png"	30
+62	"Mimic Octopus"	"Content//Fishes//Normal//mimicoctopus.png"	30
+63	"Monkfish"	"Content//Fishes//Normal//monkfish.png"	20
+64	"Moorish Idol"	"Content//Fishes//Normal//moorishidol.png"	25
+65	"Mudskipper"	"Content//Fishes//Normal//mudskipper.png"	20
+66	"Nautilus"	"Content//Fishes//Normal//nautilus.png"	5
+67	"Ornate Angler"	"Content//Fishes//Normal//ornateangler.png"	40
+68	"Pacu"	"Content//Fishes//Normal//pacu.png"	20
+69	"Pangasius"	"Content//Fishes//Normal//pangasius.png"	25
+70	"Piranha"	"Content//Fishes//Normal//piranha.png"	30
+71	"Pollock"	"Content//Fishes//Normal//pollock.png"	20
+72	"Pufferfish"	"Content//Fishes//Normal//pufferfish.png"	25
+73	"Red Shrimp"	"Content//Fishes//Normal//redshrimp.png"	10
+74	"Redtail Shark"	"Content//Fishes//Normal//redtailshark.png"	30
+75	"Ribbon Eel"	"Content//Fishes//Normal//ribboneel.png"	25
+76	"Ringed Octopus"	"Content//Fishes//Normal//ringedoctopus.png"	20
+77	"Robalo"	"Content//Fishes//Normal//robalo.png"	15
+78	"Royal Angler"	"Content//Fishes//Normal//royalangler.png"	40
+79	"Sauger"	"Content//Fishes//Normal//sauger.png"	20
+80	"Sea Snake"	"Content//Fishes//Normal//seasnake.png"	15
+81	"Shiroutsuri Koi"	"Content//Fishes//Normal//shiroutsurikoi.png"	40
+82	"Skunk Clownfish"	"Content//Fishes//Normal//skunkclownfish.png"	15
+83	"Snowball Puffer"	"Content//Fishes//Normal//snowballpuffer.png"	25
+84	"Soldierfish"	"Content//Fishes//Normal//soldierfish.png"	15
+85	"Squirrelfish"	"Content//Fishes//Normal//squirrelfish.png"	15
+86	"Starfish"	"Content//Fishes//Normal//starfish.png"	10
+87	"Stingray"	"Content//Fishes//Normal//stingray.png"	25
+88	"Stubby Squid"	"Content//Fishes//Normal//stubbysquid.png"	25
+89	"Swimmer Crab"	"Content//Fishes//Normal//swimmercrab.png"	10
+90	"Swordfish"	"Content//Fishes//Normal//swordfish.png"	25
+91	"Tancho Koi"	"Content//Fishes//Normal//tanchokoi.png"	40
+92	"Telescope"	"Content//Fishes//Normal//telescope.png"	15
+93	"Tench"	"Content//Fishes//Normal//tench.png"	10
+94	"Tilapia"	"Content//Fishes//Normal//tilapia.png"	15
+95	"Triggerfish"	"Content//Fishes//Normal//triggerfish.png"	15
+96	"Void Carp"	"Content//Fishes//Normal//voidcarp.png"	50
+97	"Water Snake"	"Content//Fishes//Normal//watersnake.png"	15
+98	"White Snout"	"Content//Fishes//Normal//whitesnout.png"	20
+99	"Wolf Sish"	"Content//Fishes//Normal//wolffish.png"	20
+100	"Yamabuki Koi"	"Content//Fishes//Normal//yamabukikoi.png"	40
